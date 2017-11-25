@@ -1,0 +1,16 @@
+body{
+    background-color:gray;
+    font-size:22px;
+}
+.webpack_img{
+    background-image:url(http://172.16.8.214:1992/./img/51932b9f52225c1f2866da7d14c76431.jpg);
+    width:200px;
+    height:200px;
+    background-size:100%;
+    background-position:center;
+}.less {
+  background-color: #3C8984;
+  color: #86B312;
+  width: 100%;
+  height: 40px;
+}

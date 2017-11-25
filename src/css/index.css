@@ -1,0 +1,11 @@
+body{
+    background-color:gray;
+    font-size:22px;
+}
+.webpack_img{
+    background-image:url("../img/测试.jpg");
+    width:200px;
+    height:200px;
+    background-size:100%;
+    background-position:center;
+}
