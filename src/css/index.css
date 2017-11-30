@@ -9,3 +9,6 @@ body{
     background-size:100%;
     background-position:center;
 }
+img{
+    transition:width 2s;
+}
